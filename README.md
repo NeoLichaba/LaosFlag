@@ -7,3 +7,5 @@ This could be achieved using the concept of CSS Specificity and CSS Combination 
 The outcome of the flag was for it to be like this:
 
 ![image](https://github.com/user-attachments/assets/b68b5b94-0a24-468a-92c8-ad3ce6d6d632)
+
+Review the final product on this live site hosted on GitHub Pages - https://neolichaba.github.io/LaosFlag/.
